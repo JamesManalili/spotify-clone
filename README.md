@@ -7,7 +7,8 @@ This project is a Spotify clone developed using __React.js__ and __Tailwind CSS_
 This Spotify clone features a sleek and intuitive interface, closely mirroring the original Spotify platform. Utilizing React.js ensures a dynamic and efficient user experience, while Tailwind CSS provides a highly customizable and responsive design framework. The application is optimized for fast performance, offering smooth navigation and quick load times. Users can enjoy functionalities such as playlist creation, music browsing, and playback controls, making it a practical and engaging replica of the original service.
 
 # Preview Output
-Access through this (link)[https://responsive-spotify-clone.netlify.app/]
+__You can try the website through this [link](https://responsive-spotify-clone.netlify.app/).__
+
 ![Output](https://github.com/user-attachments/assets/5dd56645-a7c8-4936-947f-1cc01670751b)
 
 # Setup and Installation
